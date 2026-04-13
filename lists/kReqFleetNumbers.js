@@ -1,0 +1,18 @@
+const kReqIconFleetNumbers = new Set([
+	// ARRIVA
+	"arriva|1443",
+    // GO NORTH EAST
+	"GNE|5500",
+	"GNE|6045",
+	"GNE|6074",
+	"GNE|6358",
+	"GNE|6362",
+	// STAGECOACH NORTH EAST
+    "stagecoach|26278",
+    "stagecoach|26292",
+    "stagecoach|27159",
+    "stagecoach|27772",
+    "stagecoach|27884",
+    "stagecoach|28003",
+    "stagecoach|28018"
+]);
