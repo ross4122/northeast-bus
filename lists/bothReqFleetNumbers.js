@@ -99,7 +99,7 @@ const bothReqIconFleetNumbers = new Set([
 "arriva|1542",
 "arriva|1543",
 "arriva|1550",
-"arriva|1551",
+"",
 "arriva|1555",
 "arriva|1556",
 "arriva|1559",
