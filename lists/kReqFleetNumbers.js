@@ -8,7 +8,7 @@ const kReqIconFleetNumbers = new Set([
 	"GNE|6819",
 	// STAGECOACH NORTH EAST
 	"",
-	"stagecoach|27772",
+	"",
 	"stagecoach|27884",
 	"stagecoach|28003",
 	"stagecoach|28018"
