@@ -494,9 +494,9 @@ const bothReqIconFleetNumbers = new Set([
 // NORTH EAST JAN 26
 "stagecoach|10580",
 "stagecoach|10644",
-"stagecoach|11288",
+"",
 "stagecoach|11289",
-"stagecoach|11292",
+"",
 "",
 "stagecoach|11779",
 "",
