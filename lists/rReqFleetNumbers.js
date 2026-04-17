@@ -27,7 +27,7 @@ const rReqIconFleetNumbers = new Set([
 	"GNE|6114",
 	"GNE|6235",
 	"GNE|6239",
-	"GNE|6305",
+	"",
 	"GNE|6312",
 	"GNE|6316",
 	"GNE|6318",
@@ -35,7 +35,7 @@ const rReqIconFleetNumbers = new Set([
 	"GNE|6329",
 	"GNE|6349",
 	"GNE|6963",
-	"GNE|6965",
+	"",
 	"GNE|8342",
 	"GNE|8343",
    // NORTH EAST JAN 26
