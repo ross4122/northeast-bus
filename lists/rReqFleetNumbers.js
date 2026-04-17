@@ -2,7 +2,7 @@ const rReqIconFleetNumbers = new Set([
 	// ARRIVA
 	"arriva|1457",
 	"arriva|1475",
-	"arriva|1500",
+	"",
 	"arriva|1574",
 	"arriva|7531",
 	"",
