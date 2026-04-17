@@ -23,7 +23,7 @@ const rReqIconFleetNumbers = new Set([
 	"GNE|6003",
 	"GNE|6083",
 	"GNE|6109",
-	"GNE|6114",
+	"",
 	"GNE|6235",
 	"GNE|6239",
 	"",
